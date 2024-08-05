@@ -12,7 +12,7 @@ import kotlin.coroutines.resumeWithException
 import kotlin.coroutines.suspendCoroutine
 
 // Assume `version` is defined somewhere else
-val version = "1.0.1"
+val version = "1.0.2"
 
 val headers = mapOf(
     "User-Agent" to "kotlin-yggdrasil/$version",
